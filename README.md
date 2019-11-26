@@ -1,3 +1,4 @@
+# Weather API via Firebase
 Install [Node.js](https://nodejs.org/en/)
 
 ## Project setup
