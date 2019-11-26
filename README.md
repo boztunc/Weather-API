@@ -3,6 +3,7 @@ Install [Node.js](https://nodejs.org/en/)
 
 ## Project setup
 ```
+git clone https://github.com/boztunc/Weather-API.git
 cd weather-api-firebase
 npm install
 ```
