@@ -1,6 +1,4 @@
-```
 Install [Node.js](https://nodejs.org/en/)
-```
 
 ## Project setup
 ```
